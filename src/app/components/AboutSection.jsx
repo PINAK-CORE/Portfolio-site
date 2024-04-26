@@ -63,7 +63,7 @@ const AboutSection = () => {
           
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          I'm <u>Pinak Tilavat</u> and My pronouns are <u>Hire/me</u> , A passionate programmer currently honing my skills at <u>Marwadi University Rajkot</u>. Originally from <u>Junagadh</u>. Proficient in both <u>Java and Python</u>, I'm constantly seeking new challenges and opportunities to expand my knowledge. I'm eager to connect with like-minded individuals and collaborate on innovative projects. Let's build something great together!
+          I'm <u>Pinak Tilavat</u> and My pronouns are <u>Hire/me</u> , A passionate programmer currently honing my skills at <u>Marwadi University Rajkot</u>. Originally from <u>Junagadh</u>. Proficient in both <u>Java and Python</u>, Im constantly seeking new challenges and opportunities to expand my knowledge. Im eager to connect with like-minded individuals and collaborate on innovative projects. Let's build something great together!
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton 
