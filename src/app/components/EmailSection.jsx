@@ -13,11 +13,11 @@ const EmailSection = () => {
       <div>
         <div className="z-10">
           <h5 className="text-xl font-bold text-white my-2">
-            LET'S TRY TO CONNECT (*HOPEFULLY)
+            LETS TRY TO CONNECT (*HOPEFULLY)
           </h5>
           <p className="text-[#ADB7BE] mb-4 max-w-md">
             {" "}
-            Let's connect!  I'm always looking for new challenges and interesting people to collaborate with. Just be warned, a conversation with me might involve the occasional tech pun... you've been warned.
+            Lets connect!  Im always looking for new challenges and interesting people to collaborate with. Just be warned, a conversation with me might involve the occasional tech pun... youve been warned.
           </p>
         
         </div>
