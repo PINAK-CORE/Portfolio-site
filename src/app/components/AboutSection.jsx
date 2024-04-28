@@ -34,12 +34,24 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>100 Days of Code: Python Pro Bootcamp</li>
-        <li>Programming for Everybody University of Michigan</li>
-        <li>Python Data Structures by University of Michigan</li>
-        <li>Database Programming with SQL by Oracle</li>
-        <li>CCNAv7: Introduction to Networks by Cisco</li>
-        <li>CCNAv7: Switching, Routing, and Wireless Essential by Cisco</li>
-        <li>NDG Linux Essentials by Cisco</li>
+        <a href="/images/certificats/py1.jpg">
+          <li>Programming for Everybody University of Michigan   -<u> Click Me </u></li>
+        </a>
+        <a href="/images/certificats/py2.jpg">
+          <li>Python Data Structures by University of Michigan -<u> Click Me </u></li>
+        </a>
+        <a href="/images/certificats/dbms.jpg">
+          <li>Database Programming with SQL by Oracle -<u> Click Me </u></li>
+        </a>
+        <a href="/images/certificats/cn1.jpg">
+          <li>CCNAv7: Introduction to Networks by Cisco -<u> Click Me </u></li>
+        </a>
+        <a href="/images/certificats/cn2.jpg">
+          <li>CCNAv7: Switching, Routing, and Wireless Essential by Cisco -<u> Click Me </u></li>
+        </a>
+        <a href="/images/certificats/os.jpg">
+          <li>NDG Linux Essentials by Cisco -<u> Click Me </u></li>
+        </a>
       </ul>
     ),
   },
