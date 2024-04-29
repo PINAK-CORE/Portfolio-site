@@ -1,4 +1,6 @@
 "use client";
+import Link from "next/link";
+import Image from "next/image";
 import React from "react";
 
 
@@ -17,9 +19,19 @@ const EmailSection = () => {
           </h5>
           <p className="text-[#ADB7BE] mb-4 max-w-md">
             {" "}
-            Lets connect!  Im always looking for new challenges and interesting people to collaborate with. Just be warned, a conversation with me might involve the occasional tech pun... youve been warned.
+            Im always looking for new challenges and interesting people to collaborate with. Just be warned, a conversation with me might involve the occasional tech pun... youve been warned.
           </p>
-        
+          <br></br>
+          <div className="socials flex flex-row gap-2">
+          <Link href="https://github.com/PINAK-CORE/PINAK-CORE">
+            <Image src="/icons/git-hub.png" width={50} height={50} />
+          </Link>
+          <br></br>
+          <Link href="https://leetcode.com/u/PINAK-TILAVAT/">
+            <Image src="/icons/leetcode.svg" width={50} height={50} />
+          </Link>
+          
+        </div>
         </div>
       </div>
       <div>
