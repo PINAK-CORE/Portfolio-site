@@ -9,11 +9,11 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2">
-        <li>JAVA</li>
-        <li>PYTHON</li>
+        <li>Java</li>
+        <li>Python</li>
         <li>UI/UX</li>
         <li>DBMS</li>
-        <li>Linux , git , github</li>
+        <li>Linux , Git , Github</li>
         
       </ul>
     ),
@@ -75,7 +75,7 @@ const AboutSection = () => {
           
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          I'm <u>Pinak Tilavat</u> and My pronouns are <u>Hire/me</u> , A passionate programmer currently honing my skills at <u>Marwadi University Rajkot</u>. Originally from <u>Junagadh</u>. Proficient in both <u>Java and Python</u>, Im constantly seeking new challenges and opportunities to expand my knowledge. Im eager to connect with like-minded individuals and collaborate on innovative projects. Let's build something great together!
+          I'm <u>Pinak Tilavat</u> and My pronouns are <u>Hire/me</u> , A passionate programmer currently honing my skills at <u>Marwadi University Rajkot</u>. Originally from <u>Junagadh</u>. Proficient in both <u>Java and Python</u>, I'm constantly seeking new challenges and opportunities to expand my knowledge. I'm eager to connect with like-minded individuals and collaborate on innovative projects. Let's build something great together!
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton 
