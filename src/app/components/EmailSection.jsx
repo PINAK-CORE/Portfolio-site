@@ -19,7 +19,7 @@ const EmailSection = () => {
           </h5>
           <p className="text-[#ADB7BE] mb-4 max-w-md">
             {" "}
-            Im always looking for new challenges and interesting people to collaborate with. Just be warned, a conversation with me might involve the occasional tech pun... youve been warned.
+            I'm always looking for new challenges and interesting people to collaborate with. Just be warned, a conversation with me might involve the occasional tech pun... youve been warned.
           </p>
           <br></br>
           <div className="socials flex flex-row gap-2">
