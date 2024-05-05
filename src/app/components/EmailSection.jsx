@@ -24,7 +24,7 @@ const EmailSection = () => {
           <br></br>
           <div className="socials flex flex-row gap-2">
           <Link href="https://github.com/PINAK-CORE/PINAK-CORE">
-            <Image src="/icons/git-hub.png" width={50} height={50} />
+            <Image src="/images/github.png" width={50} height={50} />
           </Link>
           <br></br>
           <Link href="https://leetcode.com/u/PINAK-TILAVAT/">
