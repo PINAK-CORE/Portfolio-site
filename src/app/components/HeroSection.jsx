@@ -56,7 +56,7 @@ transition={{ duration: 0.5 }}
 className="col-span-4 place-self-center mt-4 lg:mt-0">
   <div className="rounded-full bg-[#181818] w-[300px] h-[300px] lg:w-[300px] lg:l-[300px] relative">
     <Image
-      src="/images/pinak.png"
+      src="/images/heroIcon.png"
       className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
       width={250}
       height={250}
