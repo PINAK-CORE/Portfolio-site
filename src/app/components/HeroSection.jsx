@@ -29,6 +29,8 @@ className="col-span-7 place-self-center text-center sm:text-left justify-self-st
         1000,
         "Java Developer",
         1000,
+        "Flutter Developer",
+        1000,
         
       ]}
       wrapper="span"
