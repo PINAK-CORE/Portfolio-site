@@ -21,22 +21,26 @@ const EmailSection = () => {
             {" "}
             I'm always looking for new challenges and interesting people to collaborate with. Just be warned, a conversation with me might involve the occasional tech pun... youve been warned.
           </p>
+          
           <br></br>
           <div className="socials flex flex-row gap-2">
           <Link href="https://github.com/PINAK-CORE/">
             <Image src="/images/github.png" width={50} height={50} />
           </Link>
-          <br></br>
-          <Link href="https://leetcode.com/u/PINAK-TILAVAT/">
-            <Image src="/icons/leetcode.svg" width={50} height={50} />
-          </Link>
+            
             <br></br>
           <Link href="www.linkedin.com/in/pinak-tilavat">
             <Image src="/icons/l.png" width={50} height={50} />
           </Link>
+            
             <br></br>
           <Link href="https://x.com/pinakin4k">
             <Image src="/icons/t.png" width={50} height={50} />
+          </Link>
+            
+          <br></br>
+          <Link href="https://leetcode.com/u/PINAK-TILAVAT/">
+            <Image src="/icons/leetcode.svg" width={50} height={50} />
           </Link>
           
         </div>
