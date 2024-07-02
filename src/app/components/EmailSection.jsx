@@ -30,6 +30,14 @@ const EmailSection = () => {
           <Link href="https://leetcode.com/u/PINAK-TILAVAT/">
             <Image src="/icons/leetcode.svg" width={50} height={50} />
           </Link>
+            <br></br>
+          <Link href="www.linkedin.com/in/pinak-tilavat">
+            <Image src="/icons/l.png" width={50} height={50} />
+          </Link>
+            <br></br>
+          <Link href="https://x.com/pinakin4k">
+            <Image src="/icons/t.png" width={50} height={50} />
+          </Link>
           
         </div>
         </div>
