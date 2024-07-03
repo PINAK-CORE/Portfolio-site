@@ -9,7 +9,7 @@ const projectsData = [
     id: 1,
     title: "Portfolio Website",
     description: "",
-    image: "/images/project1.PNG",
+    image: "/images/project1.png",
     tag: ["All", "All"],
     gitUrl: "/",
     previewUrl: "/",
